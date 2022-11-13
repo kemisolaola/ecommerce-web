@@ -1,6 +1,6 @@
 export const sliderItems = [
     {
-        id: 1,
+        id: 7,
         img: "https://thumbs.dreamstime.com/b/happy-young-black-woman-shopping-bags-17215304.jpg",
         title: "SUMMER SALE",
         desc: "loremvjsdbvajkbajvbjvbnv adb vn",
